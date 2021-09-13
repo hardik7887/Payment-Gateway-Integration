@@ -4,12 +4,12 @@
 ## 1. Homepage
 ![Homepage](Payment-Gateway-Integration/Screenshots/Home.jpg)
 ## 2. Payment Page
-![Payment Details](Payment-Gateway-Integration/Screenshots/payment.jpg)
+![Payment Details](Payment-Gateway-Integration/Screenshots/payment.JPG)
 ## 3. Login Details
-![Login Details](Payment-Gateway-Integration/Screenshots/checkout.jpg)
+![Login Details](Payment-Gateway-Integration/Screenshots/checkout.JPG)
 
 ## 4. Transaction Successfull
-![Transaction Successful](Payment-Gateway-Integration/Screenshots/page says.jpg)
+![Transaction Successful](Payment-Gateway-Integration/Screenshots/page says.JPG)
 
 ## 5.Invoice Emailed
 ![Invoice Emailed ](Payment-Gateway-Integration/Screenshots/invoice.jpg)
