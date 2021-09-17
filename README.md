@@ -8,4 +8,4 @@
 ## 3. Login Details
 ![checkout](Screenshots/check-out.JPG)
 ## 4.Invoice Emailed
-![invoice](Screenshots/invoice slip.JPG)
+![invoice](Screenshots/invoice.JPG)
